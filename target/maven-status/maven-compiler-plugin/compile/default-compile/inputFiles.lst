@@ -1,0 +1,7 @@
+/home/najibazmi/fraud-detection/src/main/java/com/frauddetection/FraudDetectionApp.java
+/home/najibazmi/fraud-detection/src/main/java/com/frauddetection/Transaction.java
+/home/najibazmi/fraud-detection/src/main/java/com/frauddetection/RandomTransactionSource.java
+/home/najibazmi/fraud-detection/src/main/java/com/frauddetection/Alert.java
+/home/najibazmi/fraud-detection/src/main/java/com/frauddetection/FraudDetectionUI.java
+/home/najibazmi/fraud-detection/src/main/java/com/frauddetection/TransactionSink.java
+/home/najibazmi/fraud-detection/src/main/java/com/frauddetection/AlertSink.java

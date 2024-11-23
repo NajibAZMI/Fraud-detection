@@ -1,0 +1,7 @@
+com/frauddetection/TransactionSink.class
+com/frauddetection/Alert.class
+com/frauddetection/Transaction.class
+com/frauddetection/FraudDetectionUI.class
+com/frauddetection/AlertSink.class
+com/frauddetection/FraudDetectionApp.class
+com/frauddetection/RandomTransactionSource.class
