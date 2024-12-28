@@ -51,6 +51,14 @@
     </pluginManagement>
     <plugins>
       <plugin>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-maven-plugin</artifactId>
+        <version>0.0.5</version>
+        <configuration>
+          <mainClass>com.frauddetection.app.FraudDetectionApp</mainClass>
+        </configuration>
+      </plugin>
+      <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.1</version>
         <configuration>
@@ -88,7 +96,7 @@
               </filters>
               <transformers>
                 <transformer>
-                  <mainClass>com.frauddetection.FraudDetectionApp</mainClass>
+                  <mainClass>com.frauddetection.app.FraudDetectionApp</mainClass>
                 </transformer>
               </transformers>
             </configuration>
